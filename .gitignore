@@ -1,5 +1,6 @@
-# Custom
+.vscode
 tests/
+infernal-venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
